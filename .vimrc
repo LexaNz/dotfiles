@@ -4,5 +4,7 @@ execute pathogen#infect()
 
 filetype plugin indent on
 syntax on
+
 set termguicolors
-colorscheme molokai
+set number
+colorscheme molokai-breeze
